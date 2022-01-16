@@ -1,6 +1,11 @@
 # Windows Dll injector
 Object-Pascal 언어로 작성된 다양한 Dll-injection 소스 코드를 제공합니다.
 
+# 왜 Why
+
 # Contents
 
-- [ ] ㅇ
+완료된 작업 (0/3)
+- [ ] LoadLibrary Dll injection
+- [ ] Code injection
+- [ ] SetWindowsHookEx Dll injection
