@@ -2,10 +2,6 @@
 Object-Pascal 언어로 작성된 다양한 Dll-injection 소스 코드를 제공합니다.
 
 # Intro & Contents
-> This is a first blockqute.
->	> This is a second blockqute.
-
-
 
 완료된 작업 (0/3)
 - [ ] LoadLibrary Dll injection
